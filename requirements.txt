@@ -1,0 +1,7 @@
+APScheduler==3.10.4
+beautifulsoup4==4.12.3
+bs4==0.0.2
+pytz==2024.1
+six==1.16.0
+soupsieve==2.5
+tzlocal==5.2
